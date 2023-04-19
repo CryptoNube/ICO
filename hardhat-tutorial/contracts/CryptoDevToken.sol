@@ -97,3 +97,4 @@ contract CryptoDevToken is ERC20, Ownable {
 }
 
 // CryptoDevToken address = 0x0651bB0C12C91794BB9BAa5110c3e86F9AA1a539
+// Updated CryptoDevToken address = 0x519f7B016CE70560eAC82B606469E37CD187635F
